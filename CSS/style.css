@@ -20,7 +20,7 @@ h2{
   color: #66BFBF;
   font-family: 'Montserrat', sans-serif;
   font-weight: normal;
-  padding-bottom: 10px;
+  padding-bottom: 0.6rem;
 }
 
 h3{
@@ -31,16 +31,16 @@ h3{
 
 a{
   color: #11999E;
-  margin: 10px 20px;
+  margin: 0.6rem 1.2rem;
 
 }
 
 hr{
 
-  border: dotted #EAF6F6 6px;
+  border: dotted #EAF6F6 0.375rem;
   border-bottom: none;
   width: 4%;
-  margin: 100px auto;
+  margin: 6.25rem auto;
 
 }
 
@@ -51,17 +51,17 @@ p{
 
 .top-container{
 /*  background-color: #00A8CC;*/
- margin-left: 500px;
-  margin-top: 100px;
-  width: 200px;
-  height: 100px;
+ margin-left: 12.5rem;
+  margin-top: 6.25rem;
+  width: 12.5rem;
+  height: 6.25rem;
   position: absolute;
 
 }
 
 .personalpicture{
-  height: 200px;
-  padding-top: 50px;
+  height: 12.5rem;
+  padding-top: 3.125rem;
 }
 
 .mountain-image{
@@ -71,7 +71,7 @@ p{
 }
 
 .middle-container{
-  margin: 100px 0;
+  margin: 6.25rem 0;
 
 }
 
@@ -80,15 +80,15 @@ p{
 }
 
 .coding{
-  height: 200px;
+  height: 12.5rem;
   float: left;
-  margin-right: 30px;
+  margin-right: 1.875rem;
 }
 
 #swimming{
-  height: 200px;
+  height: 12.5rem;
   float: right;
-  margin-left: 30px;
+  margin-left: 1.875rem;
 }
 
 
@@ -100,14 +100,14 @@ p{
 
 .skill-row{
   width: 50%;
-  margin: 100px auto 100px auto;
+  margin: 6.25rem auto 6.25rem auto;
   text-align: left;
   line-height: 2;
 }
 
 .contact-message{
   width: 30%;
-  margin: 50px auto;
+  margin: 3.125rem auto;
 }
 
 .BUTTON_MLE {
@@ -117,19 +117,19 @@ p{
    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
    background-image: linear-gradient(to bottom, #11CDD4, #11999E);
-   -webkit-border-radius: 8px;
-   -moz-border-radius: 8px;
-   border-radius: 8px;
+   -webkit-border-radius: 0.5rem;
+   -moz-border-radius: 0.5rem;
+   border-radius: 0.5rem;
    color: #FFFFFF;
    font-family: Arial;
-   font-size: 20px;
+   font-size: 1.25rem;
    font-weight: 100;
-   padding: 40px;
-   box-shadow: 1px 1px 20px 0px #000000;
-   -webkit-box-shadow: 1px 1px 20px 0px #000000;
-   -moz-box-shadow: 1px 1px 20px 0px #000000;
-   text-shadow: 1px 1px 20px #000000;
-   border: solid #337FED 1px;
+   padding: 2.5rem;
+   box-shadow: 0.063rem 0.063rem 1.25rem 0px #000000;
+   -webkit-box-shadow: 0.063rem 0.063rem 1.25rem 0px #000000;
+   -moz-box-shadow: 0.063rem 0.063rem 1.25rem 0px #000000;
+   text-shadow: 0.063rem 0.063rem 1.25rem #000000;
+   border: solid #337FED 0.063rem;
    text-decoration: none;
    display: inline-block;
    cursor: pointer;
@@ -137,24 +137,24 @@ p{
 }
 
 .BUTTON_MLE:hover {
-   border: solid #337FED 1px;
+   border: solid #337FED 0.063rem;
    background: #30E3CB;
    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
    background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
-   -webkit-border-radius: 20px;
-   -moz-border-radius: 20px;
-   border-radius: 20px;
+   -webkit-border-radius: 1.25rem;
+   -moz-border-radius: 1.25rem;
+   border-radius: 1.25rem;
    text-decoration: none;
 }
 
 .footnote{
   background-color: #66BFBF;
 
-  margin-top: 40px;
-  padding: 20px;
+  margin-top: 2.5rem;
+  padding: 1.25rem;
 
 }
 
